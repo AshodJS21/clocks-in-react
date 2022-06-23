@@ -1,0 +1,12 @@
+.App {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  align-content: flex-start;
+  justify-content: space-evenly;
+  gap: 50px 20px;
+  font-size: 20px;
+  background-color: #282c34;
+  color: white;
+}

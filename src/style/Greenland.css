@@ -1,0 +1,16 @@
+.ge{
+    display: block;
+    border: 2px solid white;
+    overflow-wrap: break-word;
+    text-align:center;
+    padding: 10px;
+    width: 25%;
+    height: auto;
+}
+
+@media screen and (max-width: 480px) {
+    .ge {
+        max-height: 100%;
+        padding: 10;
+    }
+}

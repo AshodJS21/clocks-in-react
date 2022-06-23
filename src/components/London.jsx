@@ -19,8 +19,8 @@ const London = () => {
 
   return (
     <div className="uk">
-      <h2>United Kingdom</h2>
-      <p>London</p>
+      <h2>London</h2>
+      <p>United Kingdom</p>
       {clockState}
     </div>
   );

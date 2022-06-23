@@ -19,8 +19,8 @@ const LosAngeles = () => {
 
   return (
     <div className="la">
-      <h2>United States</h2>
-      <p>Los Angeles</p>
+      <h2>Los Angeles</h2>
+      <p>United States</p>
       {clockState}
     </div>
   );
